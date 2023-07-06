@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michellesetiyanti&label=Profile%20views&color=0e75b6&style=flat" alt="michellesetiyanti" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michellesetiyanti" alt="michellesetiyanti" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/posts/michelle-setiyanti-5a8317231_my-portfolio-activity-6985170180330983424-aGgj?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/michelle-setiyanti-5a8317231_my-portfolio-activity-6985170180330983424-aGgj?utm_source=share&utm_medium=member_desktop)
 
 - 📫 How to reach me **mmichellesetiyanti@gmail.com**
